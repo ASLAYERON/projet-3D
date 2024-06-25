@@ -20,7 +20,7 @@ local tex={}
 local texture={}
 local POINTS =
 {
-    --12
+    --1
 {
     x=-2.5,
     y=5,
